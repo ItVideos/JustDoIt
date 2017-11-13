@@ -1,8 +1,4 @@
----
-title: Vue+Django REST framework 打造生鲜电商项目
-categories: 后端开发
-tags: Python项目实战
----
+# Vue+Django REST framework 打造生鲜电商项目
 
 ## 课程介绍
 

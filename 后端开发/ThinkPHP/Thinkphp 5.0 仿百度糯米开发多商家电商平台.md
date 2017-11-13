@@ -1,8 +1,4 @@
----
-title: Thinkphp 5.0 仿百度糯米开发多商家电商平台
-categories: Thinkphp
-tags: Thinkphp 5.0 仿百度糯米
----
+# Thinkphp 5.0 仿百度糯米开发多商家电商平台
 
 ## 课程介绍
 

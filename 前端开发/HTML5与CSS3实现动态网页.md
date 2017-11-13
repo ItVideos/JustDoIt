@@ -1,8 +1,4 @@
----
-title: HTML5与CSS3-
-categories: 前端开发
-tags: HTML5与CSS3
----
+# HTML5与CSS3实现动态网页
 
 ## 前端开发不神秘
 

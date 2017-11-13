@@ -1,8 +1,4 @@
----
-title: Ionic飞速上手的跨平台App开发 
-categories: 前端开发
-tags: Ionic
----
+# Ionic飞速上手的跨平台App开发 
 
 ## 课程介绍
 

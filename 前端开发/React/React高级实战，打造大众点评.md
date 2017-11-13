@@ -1,8 +1,4 @@
----
-title: React高级实战 打造大众点评 WebApp
-categories: 后端开发
-tags: Java面试
----
+# React高级实战 打造大众点评 WebApp
 
 ## 课程介绍
 

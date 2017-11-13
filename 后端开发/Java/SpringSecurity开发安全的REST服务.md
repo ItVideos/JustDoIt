@@ -1,9 +1,4 @@
----
-title: Spring Security开发安全的REST服务
-categories: 后端开发
-tags: 
-title: SpringSecurity开发
----
+# Spring Security开发安全的REST服务
 
 ## 课程介绍
 

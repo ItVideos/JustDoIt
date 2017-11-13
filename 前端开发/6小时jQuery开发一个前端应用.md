@@ -1,8 +1,4 @@
----
-title: 6小时 jQuery开发一个前端应用
-categories: 前端开发
-tags: jQuery开发
----
+# 6小时 jQuery开发一个前端应用
 
 ## 课程介绍
 

@@ -1,8 +1,4 @@
----
-title: Python高效编程技巧实战
-categories: 后端开发
-tags: Python开发
----
+# Python高效编程技巧实战
 
 ## 课程介绍
 

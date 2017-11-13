@@ -1,8 +1,4 @@
----
-title: Angular 4.0从入门到实战 打造股票管理网站
-categories: AngularJS
-tags: AngularJS从入门到实战
----
+# Angular 4.0从入门到实战 打造股票管理网站
 
 ## 课程介绍
 

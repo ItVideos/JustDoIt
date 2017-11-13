@@ -1,8 +1,4 @@
----
-title: 企业级刚需Nginx入门，全面掌握Nginx配置+快速搭建高可用架构
-categories: Nginx
-tags: Nginx从入门到实践
----
+# 企业级刚需Nginx入门，全面掌握Nginx配置+快速搭建高可用架构
 
 ## 课程介绍
 

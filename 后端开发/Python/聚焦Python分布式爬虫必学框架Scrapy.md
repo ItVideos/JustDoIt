@@ -1,8 +1,4 @@
----
-title: 聚焦Python分布式爬虫必学框架Scrapy 打造搜索引擎
-categories: 后端开发
-tags: Python爬虫
----
+# 聚焦Python分布式爬虫必学框架Scrapy 打造搜索引擎
 
 ## 课程介绍
 

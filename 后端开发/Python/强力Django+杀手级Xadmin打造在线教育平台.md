@@ -1,8 +1,4 @@
----
-title: Python升级3.6 强力Django+杀手级Xadmin打造在线教育平台
-categories: 后端开发
-tags: Python项目实战
----
+# Python升级3.6 强力Django+杀手级Xadmin打造在线教育平台
 
 ## 课程介绍
 

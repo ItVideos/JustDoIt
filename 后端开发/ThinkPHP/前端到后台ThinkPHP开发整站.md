@@ -1,8 +1,4 @@
----
-title: 前端到后台ThinkPHP开发整站
-categories: ThinkPHP
-tags: ThinkPHP开发
----
+# 前端到后台ThinkPHP开发整站
 
 ## 课程介绍
 

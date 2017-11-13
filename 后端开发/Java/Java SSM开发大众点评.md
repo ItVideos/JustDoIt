@@ -1,8 +1,4 @@
----
-title: IT段子手详解MyBatis遇到Spring 秒学Java SSM开发大众点评
-categories: 后端开发
-tags: Java SSM
----
+# IT段子手详解MyBatis遇到Spring 秒学Java SSM开发大众点评
 
 ## 课程介绍
 

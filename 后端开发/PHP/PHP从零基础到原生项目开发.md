@@ -1,8 +1,4 @@
----
-title: PHP从零基础到原生项目开发
-categories: PHP
-tags: PHP从零基础到原生项目开发
----
+# PHP从零基础到原生项目开发
 
 PHP入门从这里开始
 

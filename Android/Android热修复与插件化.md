@@ -1,8 +1,4 @@
----
-title: Android应用发展趋势必备武器 热修复与插件化
-categories: Android
-tags: 热修复与插件化
----
+# Android应用发展趋势必备武器 热修复与插件化
 
 ## 课程介绍
 

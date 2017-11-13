@@ -1,8 +1,4 @@
----
-title: BAT大厂APP架构演进实践与优化之路
-categories: Android
-tags: APP架构
----
+# BAT大厂APP架构演进实践与优化之路
 
 ## 课程介绍
 

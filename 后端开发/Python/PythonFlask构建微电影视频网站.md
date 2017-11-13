@@ -1,8 +1,4 @@
----
-title: Python Flask 构建微电影视频网站
-categories: 后端开发
-tags: Python实战
----
+# Python Flask 构建微电影视频网站
 
 ## 课程介绍
 

@@ -1,8 +1,4 @@
----
-title: Yii 2.0进阶版 高级组件 ES/Redis/ Sentry 优化京东平台
-categories: Yii
-tags: 高可用高性能yii2.0 电商平台
----
+# Yii 2.0进阶版 高级组件 ES/Redis/ Sentry 优化京东平台
 
 ## 课程介绍
 

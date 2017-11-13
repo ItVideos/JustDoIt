@@ -1,8 +1,4 @@
----
-title: Angular JS 仿拉勾网 WebApp 开发移动端单页应用
-categories: AngularJS
-tags:Angular JS 仿拉勾网
----
+# Angular JS 仿拉勾网 WebApp 开发移动端单页应用
 
 ## 课程介绍
 

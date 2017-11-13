@@ -1,8 +1,4 @@
----
-title: Android 通用框架设计与完整电商 APP开发
-categories: Android
-tags: Android通用框架设计与完整电商
----
+# Android 通用框架设计与完整电商 APP开发
 
 ## 课程介绍
 

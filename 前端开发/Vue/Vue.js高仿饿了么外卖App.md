@@ -1,8 +1,4 @@
----
-title: Vue.js高仿饿了么外卖App 1.0到2.0版本完美升级
-categories: Vue.js
-tags: Vue.js项目实战
----
+# Vue.js高仿饿了么外卖App 1.0到2.0版本完美升级
 
 ## 课程介绍
 

@@ -1,8 +1,4 @@
----
-title: 最新2017传智播客/黑马Android 安卓76期教程视频/基础+实战+就业
-categories: Android
-tags: 传智播客/黑马Android
----
+# 最新2017传智播客/黑马Android 安卓76期教程视频/基础+实战+就业
 
 ## 课程介绍
 

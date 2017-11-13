@@ -1,8 +1,4 @@
----
-title: 7天搞定Node.js微信公众号
-categories: Node.js
-tags: Node.js开发微信公众号
----
+# 7天搞定Node.js微信公众号
 
 ## 课程介绍
 

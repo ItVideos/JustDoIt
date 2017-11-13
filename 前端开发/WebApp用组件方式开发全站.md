@@ -1,8 +1,4 @@
----
-title: Web App用组件方式开发全站
-categories: Web App
-tags: Web App组件式开发
----
+# Web App用组件方式开发全站
 
 ## 课程介绍
 

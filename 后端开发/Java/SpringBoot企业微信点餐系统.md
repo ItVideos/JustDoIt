@@ -1,8 +1,4 @@
----
-title: Spring Boot企业微信点餐系统
-categories: 后端开发
-tags: Spring Boot 实战
----
+# Spring Boot企业微信点餐系统
 
 ## 课程介绍
 

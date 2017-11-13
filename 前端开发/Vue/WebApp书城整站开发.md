@@ -1,8 +1,4 @@
----
-title: WebApp 书城整站开发
-categories: Vue.js
-tags: Vue.js项目实战
----
+# WebApp 书城整站开发
 
 ## 课程介绍
 

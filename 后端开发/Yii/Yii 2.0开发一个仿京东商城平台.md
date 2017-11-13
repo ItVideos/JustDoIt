@@ -1,8 +1,4 @@
----
-title: Yii 2.0开发一个仿京东商城平台
-categories: Yii
-tags: Yii项目实战
----
+# Yii 2.0开发一个仿京东商城平台
 
 ## 课程介绍
 

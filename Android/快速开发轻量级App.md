@@ -1,8 +1,4 @@
----
-title: 快速开发轻量级App
-categories: Android
-tags: Android开发
----
+# 快速开发轻量级App
 
 ## 课程介绍
 

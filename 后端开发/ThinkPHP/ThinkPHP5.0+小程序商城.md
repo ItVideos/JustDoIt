@@ -1,8 +1,4 @@
----
-title: ThinkPHP 5.0开发微信小程序商场打通全栈项目架构
-categories: ThinkPHP
-tags: ThinkPHP开发微信小程序
----
+# ThinkPHP 5.0开发微信小程序商场打通全栈项目架构
 
 ## 课程介绍
 

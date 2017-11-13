@@ -1,8 +1,4 @@
----
-title: 贯穿全栈React Native开发App
-categories: React Native
-tags: React Native
----
+# 贯穿全栈React Native开发App
 
 ## 课程介绍
 

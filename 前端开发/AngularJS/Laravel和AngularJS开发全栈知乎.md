@@ -1,8 +1,4 @@
----
-title: Java 校招面试，Google 面试官亲授
-categories: 后端开发
-tags: Java面试
----
+# Java 校招面试，Google 面试官亲授
 
 ## 课程介绍
 

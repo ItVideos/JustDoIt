@@ -1,8 +1,4 @@
----
-title: 带你入门Vue 2.0及案例开发
-categories: Vue.js
-tags: Vue.js项目实战
----
+# 带你入门Vue 2.0及案例开发
 
 ## 课程介绍
 

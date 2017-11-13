@@ -1,8 +1,4 @@
----
-title: Java Spring带前后端开发完整电商平台
-categories: 后端开发
-tags: JavaSpring开发
----
+# Java Spring带前后端开发完整电商平台
 
 ## 课程介绍
 

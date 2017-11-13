@@ -1,8 +1,4 @@
----
-title: Laravel和 Angular JS开发全栈知乎
-categories: 前端开发
-tags: 全栈开发
----
+# Laravel和 Angular JS开发全栈知乎
 
 ## 课程介绍
 

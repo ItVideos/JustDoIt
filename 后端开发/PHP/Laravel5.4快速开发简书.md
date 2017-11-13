@@ -1,8 +1,4 @@
----
-title: Laravel 5.4 快速开发简书
-categories: 后端开发
-tags: PHP实战
----
+# Laravel 5.4 快速开发简书
 
 ## 课程介绍
 

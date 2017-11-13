@@ -1,8 +1,4 @@
----
-title: 前端JavaScript面试技巧
-categories: 前端开发
-tags: JavaScript面试
----
+# 前端JavaScript面试技巧
 
 ## 课程介绍
 

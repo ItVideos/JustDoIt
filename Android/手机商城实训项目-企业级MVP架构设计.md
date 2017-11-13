@@ -1,8 +1,4 @@
----
-title: 手机商城实训项目-企业级MVP架构设计
-categories: Android
-tags: 企业级MVP架构设计
----
+# 手机商城实训项目-企业级MVP架构设计
 
 ## 课程介绍
 

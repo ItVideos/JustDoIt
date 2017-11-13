@@ -1,8 +1,4 @@
----
-title: 零基础入门Android语法与界面
-categories: Android
-tags: 零基础入门Android语法与界面
----
+# 零基础入门Android语法与界面
 
 Android入门从这里开始
 

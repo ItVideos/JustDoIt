@@ -1,8 +1,4 @@
----
-title: 高性能的 PHP API 接口开发
-categories: PHP
-tags: PHP API 接口开发
----
+# 高性能的 PHP API 接口开发
 
 ## 课程介绍
 

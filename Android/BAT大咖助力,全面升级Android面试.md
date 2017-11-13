@@ -1,8 +1,4 @@
----
-title: BAT大咖助力 全面升级Android面试
-categories: Android
-tags: Android面试
----
+# BAT大咖助力 全面升级Android面试
 
 ## 课程介绍
 
