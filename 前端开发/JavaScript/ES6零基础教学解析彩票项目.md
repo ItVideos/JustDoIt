@@ -1,6 +1,6 @@
 ---
 title: ES6零基础教学 解析彩票项目
-categories: 后端开发
+categories: JavaScript
 tags: ES6开发
 ---
 
