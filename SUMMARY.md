@@ -1,6 +1,7 @@
 # Summary
 
-* [教程分类说明](README.md)
+* [IT视频教程分类说明](README.md)
+* [关于教程、获取方式、温馨提示](关于.md)
 * [Android](Android\README.md)
     * [最新2017传智播客/黑马Android 安卓76期教程视频/基础+实战+就业](Android\黑马Android.md)
     * [零基础入门Android语法与界面](Android\零基础入门Android语法与界面.md)
