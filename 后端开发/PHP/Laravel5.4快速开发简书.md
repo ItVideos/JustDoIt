@@ -4,13 +4,13 @@
 
 Laravel是PHP工程化开发的趋势，本课程使用大量Laravel基础及高级组件，结合Mysql异步消息队列、ElasticSearch搜索引擎、Debugbar调试利器、Laravel性能优化等技术开发前后台完整的社交网站“简书”。
 
-![](http://oqn6ggw87.bkt.clouddn.com/Laravel5.4快速开发简书1.png)
+![](img/Laravel5.4快速开发简书1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Laravel5.4快速开发简书2.png)
+![](img/Laravel5.4快速开发简书2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Laravel5.4快速开发简书3.png)
+![](img/Laravel5.4快速开发简书3.png)
 
 ## 课程章节
 

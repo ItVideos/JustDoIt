@@ -4,11 +4,11 @@
 
 全网最细致地讲解Spring Security、Spring Social 、Spring Security OAuth三种技术开发安全的REST服务，彻底掌握一线互联网公司主流的身份认证和授权方式。
 
-![](http://oqn6ggw87.bkt.clouddn.com/SpringSecurity开发安全的REST服务1.png)
+![](img/SpringSecurity开发安全的REST服务1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/SpringSecurity开发安全的REST服务2.png)
+![](img/SpringSecurity开发安全的REST服务2.png)
 
 ## 课程章节
 

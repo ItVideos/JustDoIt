@@ -9,7 +9,7 @@ PHP入门从这里开始
 
 ## 课程安排
 
-![](http://oqn6ggw87.bkt.clouddn.com/PHP基础1.png)
+![](img/PHP基础1.png)
 
 <!--more-->
 
@@ -17,33 +17,33 @@ PHP入门从这里开始
 
 本阶段主要介绍PHP运行环境、PHP的基本语法、常量和变量的使用、运算符的作用以及流程控制，让我们了解PHP语言，进入代码的殿堂。
 
-![](http://oqn6ggw87.bkt.clouddn.com/PHP基础2.png)
+![](img/PHP基础2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/PHP基础7.png)
+![](img/PHP基础7.png)
 
 ### 步骤2: PHP函数库
 
 本阶段主要介绍自定义函数的定义和用法，字符串函数库、数学函数库、日期时间函数库三大系统函数库，以及数组和数组的运用。
 
-![](http://oqn6ggw87.bkt.clouddn.com/PHP基础3.png)
+![](img/PHP基础3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/PHP基础8.png)
+![](img/PHP基础8.png)
 
 ### 步骤3: PHP常用操作
 
 本阶段主要学习了会话控制中的SESSIONH和COOKIE、文件操作、MySQL数据库以及PHP面向过程方式操作数据库的方法。
 
-![](http://oqn6ggw87.bkt.clouddn.com/PHP基础4.png)
+![](img/PHP基础4.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/PHP基础9.png)
+![](img/PHP基础9.png)
 
 ### 步骤4: PHP项目实战
 
 在本阶段，我们将综合使用前面所学的知识，使用PHP原生方式完成一个优化商城项目，并为大家介绍一款大型商城系统ECSHOP的使用。
 
-![](http://oqn6ggw87.bkt.clouddn.com/PHP基础5.png)
+![](img/PHP基础5.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/PHP基础6.png)
+![](img/PHP基础6.png)
 
 ## 更多教程
 

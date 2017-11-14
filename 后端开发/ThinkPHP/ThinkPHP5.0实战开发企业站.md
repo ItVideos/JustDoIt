@@ -8,7 +8,7 @@
 
 本季度项目为开发一个完整的，包含网站前后台的实战项目，而且包含了大家比较关系的auth权限认证机制。
 
-![](http://oqn6ggw87.bkt.clouddn.com/ThinkPHP5.0实战开发企业站.md.png)
+![](img/ThinkPHP5.0实战开发企业站.png)
 
 <!--more-->
 

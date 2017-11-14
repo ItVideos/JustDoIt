@@ -4,13 +4,13 @@
 
 25小时Django综合实战，从0打造一个模块完整、功能完善、达到上线标准的在线教育平台，全面掌握Django的同时，得到一套完整的代码。
 
-![](http://oqn6ggw87.bkt.clouddn.com/强力Django+杀手级Xadmin打造在线教育平台1.png)
+![](img/强力Django+杀手级Xadmin打造在线教育平台1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/强力Django+杀手级Xadmin打造在线教育平台2.png)
+![](img/强力Django+杀手级Xadmin打造在线教育平台2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/强力Django+杀手级Xadmin打造在线教育平台3.png)
+![](img/强力Django+杀手级Xadmin打造在线教育平台3.png)
 
 ## 课程章节
 

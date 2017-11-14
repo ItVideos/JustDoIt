@@ -1,0 +1,10 @@
+{ 
+"description": "ItVedios",
+"title" : "IT视频教程资源站",
+"language": "zh-hans",
+"author" : "AllenIverson",
+"gitbook": "3.2.3",
+"pdf": {
+        "fontFamily": "等线"
+    }
+}

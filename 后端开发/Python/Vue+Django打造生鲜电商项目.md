@@ -4,13 +4,13 @@
 
 采用当前流行的前后端分离式开发技术，涉及RESTFul API基础知识和Vue项目结构分析，解决了技术开发单一的痛点，拥有超前的技术融合技能，让你在开发的领域比别人技高一筹！
 
-![](http://oqn6ggw87.bkt.clouddn.com/Vue+Django打造生鲜电商项目1.png)
+![](img/Vue+Django打造生鲜电商项目1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Vue+Django打造生鲜电商项目2.png)
+![](img/Vue+Django打造生鲜电商项目2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Vue+Django打造生鲜电商项目3.png)
+![](img/Vue+Django打造生鲜电商项目3.png)
 
 ## 课程章节
 

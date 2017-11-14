@@ -4,11 +4,11 @@
 
 以Spring Boot和微信特性为核心技术栈，实现一个从下单到接单流程完整，包含买家端和卖家端前后台功能的微信点餐系统，带你一步步设计并开发一个中小型企业级Java应用。
 
-![](http://oqn6ggw87.bkt.clouddn.com/SpringBoot企业微信点餐系统1.png)
+![](img/SpringBoot企业微信点餐系统1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/SpringBoot企业微信点餐系统2.png)
+![](img/SpringBoot企业微信点餐系统2.png)
 
 ## 课程章节
 

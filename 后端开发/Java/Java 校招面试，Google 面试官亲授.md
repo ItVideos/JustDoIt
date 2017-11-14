@@ -4,15 +4,15 @@
 
 校招面试的核心究竟是什么？一是基础知识掌握是否扎实，二是编程能力是否过硬。如何从这两大方面证明自己，如何才能从人数众多、录取率偏低的校招中脱颖而出，这门课程就教给你最实用的方法。
 
-![](http://oqn6ggw87.bkt.clouddn.com/java面试1.png)
+![](img/java面试1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/java面试2.png)
+![](img/java面试2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/java面试3.png)
+![](img/java面试3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/java面试4.png)
+![](img/java面试4.png)
 
 ## 课程章节
 

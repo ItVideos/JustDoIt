@@ -4,15 +4,15 @@
 
 未来是什么时代？是数据时代！数据分析服务、互联网金融，数据建模、自然语言处理、医疗病例分析……越来越多的工作会基于数据来做，而爬虫正是快速获取数据最重要的方式，相比其它语言，Python爬虫更简单、高效。
 
-![](http://oqn6ggw87.bkt.clouddn.com/聚焦Python分布式爬虫必学框架Scrapy1.png)
+![](img/聚焦Python分布式爬虫必学框架Scrapy1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/聚焦Python分布式爬虫必学框架Scrapy2.png)
+![](img/聚焦Python分布式爬虫必学框架Scrapy2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/聚焦Python分布式爬虫必学框架Scrapy3.png)
+![](img/聚焦Python分布式爬虫必学框架Scrapy3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/聚焦Python分布式爬虫必学框架Scrapy4.png)
+![](img/聚焦Python分布式爬虫必学框架Scrapy4.png)
 
 ## 课程章节
 

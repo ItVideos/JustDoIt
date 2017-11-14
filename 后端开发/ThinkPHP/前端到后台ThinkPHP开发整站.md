@@ -4,15 +4,15 @@
 
 说实话，想一个人开发整站已经很久了，这种感受你懂得！
 
-![](http://oqn6ggw87.bkt.clouddn.com/前端到后台ThinkPHP开发整站1.png)
+![](img/前端到后台ThinkPHP开发整站1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/前端到后台ThinkPHP开发整站2.png)
+![](img/前端到后台ThinkPHP开发整站2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/前端到后台ThinkPHP开发整站3.png)
+![](img/前端到后台ThinkPHP开发整站3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/前端到后台ThinkPHP开发整站4.png)
+![](img/前端到后台ThinkPHP开发整站4.png)
 
 ## 课程章节
 

@@ -70,7 +70,7 @@
     * [Laravel5.4快速开发简书](后端开发\PHP\Laravel5.4快速开发简书.md)
     * [前端到后台ThinkPHP开发整站](后端开发\ThinkPHP\前端到后台ThinkPHP开发整站.md)
     * [Thinkphp 5.0 仿百度糯米开发多商家电商平台](后端开发\ThinkPHP\Thinkphp 5.0 仿百度糯米开发多商家电商平台.md)
-    * [ThinkPHP\ThinkPHP5.0+小程序商城](后端开发\ThinkPHP\ThinkPHP5.0+小程序商城.md)
+    * [ThinkPHP5.0+小程序商城](后端开发\ThinkPHP\ThinkPHP5.0+小程序商城.md)
     * [ThinkPHP5.0实战开发企业站](后端开发\ThinkPHP\ThinkPHP5.0实战开发企业站.md)
     * [Yii 2.0开发一个仿京东商城平台](后端开发\Yii\Yii 2.0开发一个仿京东商城平台.md)
     * [高可用高性能yii2.0电商平台](后端开发\Yii\高可用高性能yii2.0电商平台.md)

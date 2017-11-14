@@ -4,13 +4,13 @@
 
 采用最适合做API层开发的Yaf框架、搭配PHP原生代码，实现互联网项目常见的API功能开发，从基础接口实现、进阶到基础接口工程化架构调整及性能优化，让你的开发更高效。
 
-![](http://oqn6ggw87.bkt.clouddn.com/高性能的PHP接口开发1.png)
+![](img/高性能的PHP接口开发1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/高性能的PHP接口开发2.png)
+![](img/高性能的PHP接口开发2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/高性能的PHP接口开发3.png)
+![](img/高性能的PHP接口开发3.png)
 
 ## 课程章节
 

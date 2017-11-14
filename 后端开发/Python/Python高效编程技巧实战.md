@@ -4,15 +4,15 @@
 
 精选50个Python各领域开发及面试常见问题作为训练任务，每个任务先提出问题，然后分析问题、并给出高效的解决办法，最后手把手带你解决问题，全面提升用Python快速解决问题与高效编程的能力。
 
-![](http://oqn6ggw87.bkt.clouddn.com/Python高效编程技巧实战1.png)
+![](img/Python高效编程技巧实战1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Python高效编程技巧实战2.png)
+![](img/Python高效编程技巧实战2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Python高效编程技巧实战3.png)
+![](img/Python高效编程技巧实战3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Python高效编程技巧实战4.png)
+![](img/Python高效编程技巧实战4.png)
 
 ## 课程章节
 

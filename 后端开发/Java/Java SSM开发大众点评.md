@@ -4,13 +4,13 @@
 
 再续MyBatis前缘，利用复杂SQL简化实现。体验前后端分离开发，夯实Java SSM（Spring SpringMvc MyBatis）基础。讲原理，追源码，SSM相关知识点梳理总结，新手快速进阶，毕设好选择。
 
-![](http://oqn6ggw87.bkt.clouddn.com/Java SSM开发大众点评1.png)
+![](img/Java SSM开发大众点评1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Java SSM开发大众点评2.png)
+![](img/Java SSM开发大众点评2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Java SSM开发大众点评3.png)
+![](img/Java SSM开发大众点评3.png)
 
 ## 课程章节
 

@@ -4,13 +4,13 @@
 
 Flask是Python高手公认的、好用的轻量级框架，微内核＋各种扩展插件，能让你轻松灵活的应对各种大小项目的开发，这次，在纯实战的生产环境中，给你讲透Flask，让你达到实际工作1.5年以上的水平。
 
-![](http://oqn6ggw87.bkt.clouddn.com/PythonFlask构建微电影视频网站1.png)
+![](img/PythonFlask构建微电影视频网站1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/PythonFlask构建微电影视频网站2.png)
+![](img/PythonFlask构建微电影视频网站2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/PythonFlask构建微电影视频网站3.png)
+![](img/PythonFlask构建微电影视频网站3.png)
 
 ## 课程章节
 

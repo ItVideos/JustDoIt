@@ -4,15 +4,15 @@
 
 360高级工程师亲授，遵循一线互联网公司的实际开发流程，从更高级的层面，带你掌握项目功能设计优化、架构设计优化等更高级的技术，深入浅出地讲解实际开发难题和项目优化解决方案，点击视频，立即免费试学。
 
-![](http://oqn6ggw87.bkt.clouddn.com/高可用高性能yii2.0电商平台1.png)
+![](img/高可用高性能yii2.0电商平台1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/高可用高性能yii2.0电商平台2.png)
+![](img/高可用高性能yii2.0电商平台2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/高可用高性能yii2.0电商平台3.png)
+![](img/高可用高性能yii2.0电商平台3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/高可用高性能yii2.0电商平台4.png)
+![](img/高可用高性能yii2.0电商平台4.png)
 
 ## 课程章节
 

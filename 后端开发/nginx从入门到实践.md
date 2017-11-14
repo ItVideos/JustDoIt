@@ -4,13 +4,13 @@
 
 系统讲解Nginx ，课程通用性非常高，几乎所有与后台相关的技术人员都会用到，了解Nginx 的人很多，但真正掌握Nginx 的却很少，系统掌握Nginx配置与快速搭建高可用架构的技术方法，你必将成为企业争抢的高薪人才！
 
-![](http://oqn6ggw87.bkt.clouddn.com/Nginx从入门到实践1.png)
+![](img/Nginx从入门到实践1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Nginx从入门到实践2.png)
+![](img/Nginx从入门到实践2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Nginx从入门到实践3.png)
+![](img/Nginx从入门到实践3.png)
 
 ## 课程章节
 

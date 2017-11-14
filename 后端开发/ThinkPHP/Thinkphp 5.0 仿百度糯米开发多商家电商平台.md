@@ -4,11 +4,11 @@
 
 ThinkPHP 称得上是最好用的“中文PHP框架”，一路进化到了颠覆版本——ThinkPHP 5.0，有了更多神奇的新特性，变得更加方便，更加好用，本次课程就将带你在实战中一次性玩转Thinkphp5.0。
 
-![](http://oqn6ggw87.bkt.clouddn.com/Thinkphp仿百度糯米开发多商家电商平台1.png)
+![](img/Thinkphp仿百度糯米开发多商家电商平台1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Thinkphp仿百度糯米开发多商家电商平台2.png)
+![](img/Thinkphp仿百度糯米开发多商家电商平台2.png)
 
 ## 课程章节
 

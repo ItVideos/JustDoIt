@@ -4,13 +4,13 @@
 
 完整电商业务流程详解、企业级实战开发环境，购物、下单、支付、收货......各功能模块逐一开发，打造一个京东模式电商平台。
 
-![](http://oqn6ggw87.bkt.clouddn.com/Yii2.0开发一个仿京东商城平台1.png)
+![](img/Yii2.0开发一个仿京东商城平台1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Yii2.0开发一个仿京东商城平台2.png)
+![](img/Yii2.0开发一个仿京东商城平台2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Yii2.0开发一个仿京东商城平台3.png)
+![](img/Yii2.0开发一个仿京东商城平台3.png)
 
 ## 课程章节
 

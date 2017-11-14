@@ -2,11 +2,9 @@
 
 ## 课程介绍
 
-![](img/Java版数据结构与算法.jpg)
+![](img/Java版数据结构与算法1.jpg)
 
 <!--more-->
-
-![](img/Java版数据结构与算法1.jpg)
 
 ![](img/Java版数据结构与算法2.jpg)
 

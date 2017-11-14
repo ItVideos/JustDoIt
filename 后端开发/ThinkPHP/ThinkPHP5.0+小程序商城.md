@@ -4,15 +4,15 @@
 
 通过开发一个已上线的小程序商城全栈应用，学会如何打造iOS，Android，Web多端适配的服务端标准API，掌握三端分离开发方式，理解现代Web的基本架构思想。
 
-![](http://oqn6ggw87.bkt.clouddn.com/ThinkPHP5.0+小程序商城1.png)
+![](img/ThinkPHP5.0+小程序商城1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/ThinkPHP5.0+小程序商城2.png)
+![](img/ThinkPHP5.0+小程序商城2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/ThinkPHP5.0+小程序商城3.png)
+![](img/ThinkPHP5.0+小程序商城3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/ThinkPHP5.0+小程序商城4.png)
+![](img/ThinkPHP5.0+小程序商城4.png)
 
 ## 课程章节
 
