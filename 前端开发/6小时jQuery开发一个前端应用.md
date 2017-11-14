@@ -4,13 +4,13 @@
 
 成为一名前端工程师玩不转jQuery简直让人笑话，通过搭建一个清单应用，让你一次性掌握jQuery核心功能和使用技巧。
 
-![](http://oqn6ggw87.bkt.clouddn.com/6小时jQuery开发一个前端应用1.png)
+![](img/6小时jQuery开发一个前端应用1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/6小时jQuery开发一个前端应用2.png)
+![](img/6小时jQuery开发一个前端应用2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/6小时jQuery开发一个前端应用3.png)
+![](img/6小时jQuery开发一个前端应用3.png)
 
 ## 课程章节
 

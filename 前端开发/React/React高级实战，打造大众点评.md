@@ -4,15 +4,15 @@
 
 使用React开发项目时，你会惊讶于它的组件化设计、它的数据驱动视图的开发方式、它的解放DOM操作，它颠覆传统的超高效率，跟随讲师一起用React从零搭建一个完善的 WebApp ，让你感受到React的魅力。
 
-![](http://oqn6ggw87.bkt.clouddn.com/React高级实战，打造大众点评1.png)
+![](img/React高级实战，打造大众点评1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/React高级实战，打造大众点评2.png)
+![](img/React高级实战，打造大众点评2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/React高级实战，打造大众点评3.png)
+![](img/React高级实战，打造大众点评3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/React高级实战，打造大众点评4.png)
+![](img/React高级实战，打造大众点评4.png)
 
 ## 课程章节
 

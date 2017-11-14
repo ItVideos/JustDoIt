@@ -4,13 +4,13 @@
 
 还在为ES5复杂难懂的语法而头疼？有了ES6我们不再烦恼，本课程会全面讲解ES6，结合ES5对比讲解ES6的特性，教你如何应用ES6开发项目，让你的代码更简洁清晰。
 
-![](http://oqn6ggw87.bkt.clouddn.com/ES6零基础教学解析彩票项目1.png)
+![](img/ES6零基础教学解析彩票项目1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/ES6零基础教学解析彩票项目2.png)
+![](img/ES6零基础教学解析彩票项目2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/ES6零基础教学解析彩票项目3.png)
+![](img/ES6零基础教学解析彩票项目3.png)
 
 ## 课程章节
 

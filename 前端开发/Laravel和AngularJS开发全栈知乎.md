@@ -4,15 +4,15 @@
 
 前端AngularJS，后端Laravel，开发一个你自己的 “知乎”，特别适合这两门技术的初学者，让你获得技术和开发思维的双重提升。
 
-![](http://oqn6ggw87.bkt.clouddn.com/Laravel和AngularJS开发全栈知乎1.png)
+![](img/Laravel和AngularJS开发全栈知乎1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Laravel和AngularJS开发全栈知乎2.png)
+![](img/Laravel和AngularJS开发全栈知乎2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Laravel和AngularJS开发全栈知乎3.png)
+![](img/Laravel和AngularJS开发全栈知乎3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Laravel和AngularJS开发全栈知乎4.png)
+![](img/Laravel和AngularJS开发全栈知乎4.png)
 
 ## 课程章节
 

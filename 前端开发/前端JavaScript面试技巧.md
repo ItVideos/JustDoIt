@@ -4,13 +4,13 @@
 
 这是一门让你在前端面试脱颖而出的课程，BAT高级前端工程师亲授，以搞定JS面试题为目标，并掌握必要的JS基础知识，助你快速通过前端JS面试。
 
-![](http://oqn6ggw87.bkt.clouddn.com/前端JavaScript面试技巧1.png)
+![](img/前端JavaScript面试技巧1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/前端JavaScript面试技巧2.png)
+![](img/前端JavaScript面试技巧2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/前端JavaScript面试技巧3.png)
+![](img/前端JavaScript面试技巧3.png)
 
 ## 课程章节
 

@@ -4,15 +4,15 @@
 
 课程紧跟Angular更新迭代，带你尝鲜最近发布的Angular4.0版本。
 
-![](http://oqn6ggw87.bkt.clouddn.com/Angular4.0从入门到实战1.png)
+![](img/Angular4.0从入门到实战1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Angular4.0从入门到实战2.png)
+![](img/Angular4.0从入门到实战2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Angular4.0从入门到实战3.png)
+![](img/Angular4.0从入门到实战3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Angular4.0从入门到实战4.png)
+![](img/Angular4.0从入门到实战4.png)
 
 ## 课程章节
 

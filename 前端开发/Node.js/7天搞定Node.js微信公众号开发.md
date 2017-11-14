@@ -4,15 +4,15 @@
 
 微信公众号已经1000多万个了，即使不为市场，为自己也应该学会开发它。
 
-![](http://oqn6ggw87.bkt.clouddn.com/7天搞定Node.js微信公众号1.png)
+![](img/7天搞定Node.js微信公众号1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/7天搞定Node.js微信公众号2.png)
+![](img/7天搞定Node.js微信公众号2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/7天搞定Node.js微信公众号3.png)
+![](img/7天搞定Node.js微信公众号3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/7天搞定Node.js微信公众号4.png)
+![](img/7天搞定Node.js微信公众号4.png)
 
 ## 课程章节
 

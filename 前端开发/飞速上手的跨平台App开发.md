@@ -4,15 +4,15 @@
 
 最具潜力的HTML5移动App开发框架Ionic，天然的跨平台属性，通吃Android及iOS，简洁、易用，让你飞速上手。
 
-![](http://oqn6ggw87.bkt.clouddn.com/飞速上手的跨平台App开发1.png)
+![](img/飞速上手的跨平台App开发1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/飞速上手的跨平台App开发2.png)
+![](img/飞速上手的跨平台App开发2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/飞速上手的跨平台App开发3.png)
+![](img/飞速上手的跨平台App开发3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/飞速上手的跨平台App开发4.png)
+![](img/飞速上手的跨平台App开发4.png)
 
 ## 课程章节
 

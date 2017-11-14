@@ -4,13 +4,13 @@
 
 不仅刷爆朋友圈，HTML5确实可以让人更好的看清数据的真相。
 
-![](http://oqn6ggw87.bkt.clouddn.com/WebApp用组件方式开发全站1.png)
+![](img/WebApp用组件方式开发全站1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/WebApp用组件方式开发全站2.png)
+![](img/WebApp用组件方式开发全站2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/WebApp用组件方式开发全站3.png)
+![](img/WebApp用组件方式开发全站3.png)
 
 ## 课程章节
 

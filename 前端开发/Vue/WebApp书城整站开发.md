@@ -2,15 +2,15 @@
 
 ## 课程介绍
 
-![](http://oqn6ggw87.bkt.clouddn.com/书城整站开发1.png)
+![](img/书城整站开发1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/书城整站开发2.png)
+![](img/书城整站开发2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/书城整站开发3.png)
+![](img/书城整站开发3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/书城整站开发4.png)
+![](img/书城整站开发4.png)
 
 ## 课程章节
 

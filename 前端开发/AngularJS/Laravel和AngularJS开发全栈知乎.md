@@ -2,7 +2,7 @@
 
 ## 课程介绍
 
-![](http://oqn6ggw87.bkt.clouddn.com/.png)
+![](img/.png)
 
 <!--more-->
 
