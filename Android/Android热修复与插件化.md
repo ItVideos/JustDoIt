@@ -4,7 +4,7 @@
 
 2017年，Android开发热门技术讨论仍在继续，这是一门绝对稀缺的插件化与热修复综合学习的实战课程，涉及Android中如何加载apk中的类、资源，解耦业务代码，插件化自己的App，在线实时修复bug更换样式等，这些技术在不断的演进过程中被逐个攻破。
 
-![](http://oqn6ggw87.bkt.clouddn.com/Android热修复与插件化.png)
+![](img/Android热修复与插件化.png)
 
 <!--more-->
 

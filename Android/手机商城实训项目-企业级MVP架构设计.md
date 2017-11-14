@@ -2,15 +2,15 @@
 
 ## 课程介绍
 
-![](http://oqn6ggw87.bkt.clouddn.com/企业级MVP架构设计1.png)
+![](imgm/企业级MVP架构设计1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/企业级MVP架构设计2.png)
+![](imgm/企业级MVP架构设计2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/企业级MVP架构设计3.png)
+![](imgm/企业级MVP架构设计3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/企业级MVP架构设计4.png)
+![](imgm/企业级MVP架构设计4.png)
 
 ## 更多教程
 

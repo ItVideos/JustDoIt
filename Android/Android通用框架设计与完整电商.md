@@ -4,13 +4,13 @@
 
 全程带你从零设计通用的项目框架，并通过框架快速开发一个完整电商App验证和完善框架的复用性与灵活性等，综合提高你的项目框架设计能力和业务功能的快速实现能力,让你的开发工作更轻松！
 
-![](http://oqn6ggw87.bkt.clouddn.com/Android通用框架设计与完整电商1.png)
+![](img/Android通用框架设计与完整电商1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Android通用框架设计与完整电商2.png)
+![](img/Android通用框架设计与完整电商2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Android通用框架设计与完整电商3.png)
+![](img/Android通用框架设计与完整电商3.png)
 
 ## 课程章节
 

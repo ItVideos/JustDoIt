@@ -4,7 +4,7 @@
 
 安卓面试全新升级课程，已经帮助很多同学在短时间内拿到了满意的offer，作为Android开发求职路上快速赢取满意offer的必备课程，不管你是什么级别的工程师，都可以通过这门课程的学习，轻松快速搞定Android面试，赢取满意offer！
 
-![](http://oqn6ggw87.bkt.clouddn.com/BAT大咖助力，全面升级Android面试1.png)
+![](imgm/BAT大咖助力，全面升级Android面试1.png)
 
 <!--more-->
 
@@ -46,15 +46,15 @@ Android中异步消息处理在面试中是一定会被问到的，在实战过�
 
 现在Android发展越来越快，对于一些前沿的知识，在面试中我们也是需要做到了解，这章从Android的插件化、热更新、rxjava、进程保活，组件化，签名过程，应用沙盒等方面给大家讲解，主要想做到扩大大家的知识面，让面试官看到你对android的热爱。
 
-![](http://oqn6ggw87.bkt.clouddn.com/BAT大咖助力，全面升级Android面试2.png)
+![](imgm/BAT大咖助力，全面升级Android面试2.png)
 
 ### 第10章 Java高级技术点面试问题
 
 在Android的面试中，面试官通常缺少不了会问一下Java高级技术，本章就会为大家讲解Java相关高级技术面试点，包括GC/回收算法/堆栈/、反射/编译时vs运行时、注解（结合android annotation库）、范型、线程池/并发编程、Socket、IO/NIO、集合框架、类加载器、异常、继承/组合/多态、引用类型/内存泄漏、java虚拟机/d...
 
-![](http://oqn6ggw87.bkt.clouddn.com/BAT大咖助力，全面升级Android面试3.png)
+![](imgm/BAT大咖助力，全面升级Android面试3.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/BAT大咖助力，全面升级Android面试4.png)
+![](imgm/BAT大咖助力，全面升级Android面试4.png)
 
 ### 第11章 设计模式相关面试问题
 
@@ -68,7 +68,7 @@ Android中异步消息处理在面试中是一定会被问到的，在实战过�
 
 算法作为编程的重要部分，在BAT等大公司基本是必考项，本章将结合案例为大家讲解常用常考的算法面试问题，帮助大家提高算法能力的同时轻松应对算法相关的面试。
 
-![](http://oqn6ggw87.bkt.clouddn.com/BAT大咖助力，全面升级Android面试5.png)
+![](imgm/BAT大咖助力，全面升级Android面试5.png)
 
 ### 第14章 课程总结
 

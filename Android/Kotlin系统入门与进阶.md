@@ -4,11 +4,11 @@
 
 Google钦定的 Android 官方一级开发语言，比Java 具有更多新特性，Kotlin将是未来Android开发的主流，现在不学，更待何时？（学习要求：具备java基础）
 
-![](http://oqn6ggw87.bkt.clouddn.com/kotlin教程0.png)
+![](imgm/kotlin教程0.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/kotlin教程1.png)
+![](imgm/kotlin教程1.png)
 
 ## 课程章节
 
@@ -50,27 +50,27 @@ Google钦定的 Android 官方一级开发语言，比Java 具有更多新特性
 
 ## Kotlin从放弃到入门
 
-![](http://oqn6ggw87.bkt.clouddn.com/kotlin教程4.png)
+![](imgm/kotlin教程4.png)
 
 ## Kotlin从零基础到进阶
 
-![](http://oqn6ggw87.bkt.clouddn.com/kotlin教程6.png)
+![](imgm/kotlin教程6.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/kotlin教程7.png)
+![](imgm/kotlin教程7.png)
 
 ## Kotlin极简教程
 
-![](http://oqn6ggw87.bkt.clouddn.com/kotlin教程8.png)
+![](imgm/kotlin教程8.png)
 
 ## Kotlin官方参考文档 中文版
 
-![](http://oqn6ggw87.bkt.clouddn.com/kotlin教程9.png)
+![](imgm/kotlin教程9.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/kotlin教程11.png)
+![](imgm/kotlin教程11.png)
 
 ## Kotlin-for-android-developers
 
-![](http://oqn6ggw87.bkt.clouddn.com/kotlin教程10.png)
+![](imgm/kotlin教程10.png)
 
 ## 更多教程
 

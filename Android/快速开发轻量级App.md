@@ -4,13 +4,13 @@
 
 前端React Native，后台Node.js，用轻量级架构开发一款直接在AppStore上线的App，只需一周时间！
 
-![](http://oqn6ggw87.bkt.clouddn.com/快速开发轻量级App1.png)
+![](imgm/快速开发轻量级App1.png)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/快速开发轻量级App2.png)
+![](imgm/快速开发轻量级App2.png)
 
-![](http://oqn6ggw87.bkt.clouddn.com/快速开发轻量级App3.png)
+![](imgm/快速开发轻量级App3.png)
 
 ## 课程章节
 
