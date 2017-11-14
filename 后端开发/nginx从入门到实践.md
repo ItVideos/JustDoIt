@@ -6,8 +6,6 @@
 
 ![](img/Nginx从入门到实践1.png)
 
-<!--more-->
-
 ![](img/Nginx从入门到实践2.png)
 
 ![](img/Nginx从入门到实践3.png)

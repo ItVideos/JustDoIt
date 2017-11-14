@@ -6,8 +6,6 @@
 
 ![](img/Angular4.0从入门到实战1.png)
 
-<!--more-->
-
 ![](img/Angular4.0从入门到实战2.png)
 
 ![](img/Angular4.0从入门到实战3.png)

@@ -10,8 +10,6 @@ tags: MySQL
 
 ![](img/MySQL性能管理及架构设计1.png)
 
-<!--more-->
-
 ![](img/MySQL性能管理及架构设计2.png)
 
 ![](img/MySQL性能管理及架构设计3.png)

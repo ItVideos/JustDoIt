@@ -6,8 +6,6 @@
 
 ![](img/ThinkPHP5.0+小程序商城1.png)
 
-<!--more-->
-
 ![](img/ThinkPHP5.0+小程序商城2.png)
 
 ![](img/ThinkPHP5.0+小程序商城3.png)

@@ -6,8 +6,6 @@
 
 ![](img/React高级实战，打造大众点评1.png)
 
-<!--more-->
-
 ![](img/React高级实战，打造大众点评2.png)
 
 ![](img/React高级实战，打造大众点评3.png)

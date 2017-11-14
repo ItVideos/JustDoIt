@@ -1,12 +1,10 @@
-# Ionic飞速上手的跨平台App开发 
+# Ionic飞速上手的跨平台App开发
 
 ## 课程介绍
 
 最具潜力的HTML5移动App开发框架Ionic，天然的跨平台属性，通吃Android及iOS，简洁、易用，让你飞速上手。
 
 ![](img/飞速上手的跨平台App开发1.png)
-
-<!--more-->
 
 ![](img/飞速上手的跨平台App开发2.png)
 

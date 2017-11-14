@@ -6,8 +6,6 @@
 
 ![](img/Android通用框架设计与完整电商1.png)
 
-<!--more-->
-
 ![](img/Android通用框架设计与完整电商2.png)
 
 ![](img/Android通用框架设计与完整电商3.png)

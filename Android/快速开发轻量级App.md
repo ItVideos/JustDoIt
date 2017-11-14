@@ -6,8 +6,6 @@
 
 ![](img/快速开发轻量级App1.png)
 
-<!--more-->
-
 ![](img/快速开发轻量级App2.png)
 
 ![](img/快速开发轻量级App3.png)

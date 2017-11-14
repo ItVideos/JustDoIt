@@ -6,8 +6,6 @@
 
 ![](img/AngularJS仿拉勾网1.png)
 
-<!--more-->
-
 ![](img/AngularJS仿拉勾网2.png)
 
 ![](img/AngularJS仿拉勾网3.png)

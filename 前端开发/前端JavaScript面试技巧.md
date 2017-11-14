@@ -6,8 +6,6 @@
 
 ![](img/前端JavaScript面试技巧1.png)
 
-<!--more-->
-
 ![](img/前端JavaScript面试技巧2.png)
 
 ![](img/前端JavaScript面试技巧3.png)

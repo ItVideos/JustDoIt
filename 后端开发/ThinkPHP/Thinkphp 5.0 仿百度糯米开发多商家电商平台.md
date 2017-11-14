@@ -6,8 +6,6 @@ ThinkPHP 称得上是最好用的“中文PHP框架”，一路进化到了颠�
 
 ![](img/Thinkphp仿百度糯米开发多商家电商平台1.png)
 
-<!--more-->
-
 ![](img/Thinkphp仿百度糯米开发多商家电商平台2.png)
 
 ## 课程章节

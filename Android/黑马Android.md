@@ -6,8 +6,6 @@
 
 ![](img/黑马Android1.png)
 
-<!--more-->
-
 ![](img/黑马Android2.png)
 
 ![](img/黑马Android3.jpg)

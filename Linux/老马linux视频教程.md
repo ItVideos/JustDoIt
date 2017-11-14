@@ -1,20 +1,18 @@
 ---
-title: 许岑的幻灯片制作视频教程
-categories: 幻灯片制作
-tags: Keynote/PPT制作
+title: 老马linux视频教程
+categories: Linux
+tags: Linux运维
 ---
 
 ## 课程介绍
 
-![](img/keynote1.png)
+![](img/老马linux视频教程1.png)
 
-<!--more-->
+![](img/老马linux视频教程2.png)
 
-![](img/keynote2.png)
+![](img/老马linux视频教程3.png)
 
-![](img/keynote3.png)
-
-![](img/keynote4.png)
+![](img/老马linux视频教程4.png)
 
 
 

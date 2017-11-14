@@ -6,8 +6,6 @@
 
 ![](img/6小时jQuery开发一个前端应用1.png)
 
-<!--more-->
-
 ![](img/6小时jQuery开发一个前端应用2.png)
 
 ![](img/6小时jQuery开发一个前端应用3.png)

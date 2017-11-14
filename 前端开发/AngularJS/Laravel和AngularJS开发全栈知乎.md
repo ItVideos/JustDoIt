@@ -6,8 +6,6 @@
 
 ![](img/Laravel和AngularJS开发全栈知乎1.png)
 
-<!--more-->
-
 ![](img/Laravel和AngularJS开发全栈知乎2.png)
 
 ![](img/Laravel和AngularJS开发全栈知乎3.png)

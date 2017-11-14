@@ -6,8 +6,6 @@
 
 ![](img/前端到后台ThinkPHP开发整站1.png)
 
-<!--more-->
-
 ![](img/前端到后台ThinkPHP开发整站2.png)
 
 ![](img/前端到后台ThinkPHP开发整站3.png)

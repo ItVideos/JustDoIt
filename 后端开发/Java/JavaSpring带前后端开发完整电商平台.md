@@ -6,8 +6,6 @@
 
 ![](img/JavaSpring带前后端开发完整电商平台1.png)
 
-<!--more-->
-
 ![](img/JavaSpring带前后端开发完整电商平台2.png)
 
 ![](img/JavaSpring带前后端开发完整电商平台3.png)

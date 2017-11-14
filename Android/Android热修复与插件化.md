@@ -6,8 +6,6 @@
 
 ![](img/Android热修复与插件化.png)
 
-<!--more-->
-
 ## 课程章节
 
 ### 第1章 class文件与dex文件解析

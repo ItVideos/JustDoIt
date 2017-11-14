@@ -10,8 +10,6 @@ Thinkphp作为开源的PHP框架发展到今天，无疑是国内最适合PHP学
 
 ![](http://oqn6ggw87.bkt.clouddn.com/Thinkphp5商城项目实战.png)
 
-<!--more-->
-
 ## 课程章节
 
 - 1.Thinkphp5商城项目实战课程介绍

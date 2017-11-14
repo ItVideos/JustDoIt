@@ -6,8 +6,6 @@ Google钦定的 Android 官方一级开发语言，比Java 具有更多新特性
 
 ![](img/kotlin教程0.png)
 
-<!--more-->
-
 ![](img/kotlin教程1.png)
 
 ## 课程章节

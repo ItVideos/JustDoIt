@@ -6,8 +6,6 @@
 
 ![](img/聚焦Python分布式爬虫必学框架Scrapy1.png)
 
-<!--more-->
-
 ![](img/聚焦Python分布式爬虫必学框架Scrapy2.png)
 
 ![](img/聚焦Python分布式爬虫必学框架Scrapy3.png)

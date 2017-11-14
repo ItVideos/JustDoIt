@@ -6,8 +6,6 @@
 
 如果亲在网站上没有找到想要的教程，也可以留言我，我有时间看看。
 
-<!--more-->
-
 ## 教程分类说明
 
 ### 分类地址：https://itvedios.github.io/categories/
@@ -100,11 +98,20 @@
     * [Thinkphp 5.0 仿百度糯米开发多商家电商平台](后端开发\ThinkPHP\Thinkphp 5.0 仿百度糯米开发多商家电商平台.md)
     * [ThinkPHP5.0+小程序商城](后端开发\ThinkPHP\ThinkPHP5.0+小程序商城.md)
     * [ThinkPHP5.0实战开发企业站](后端开发\ThinkPHP\ThinkPHP5.0实战开发企业站.md)
+    * [Thinkphp5商城项目实战](后端开发\ThinkPHP\Thinkphp5商城项目实战.md)
     * [Yii 2.0开发一个仿京东商城平台](后端开发\Yii\Yii 2.0开发一个仿京东商城平台.md)
     * [高可用高性能yii2.0电商平台](后端开发\Yii\高可用高性能yii2.0电商平台.md)
+* [数据库](数据库\README.md)
+    * [MySQL性能管理及架构设计](数据库\MySQL性能管理及架构设计.md)
+    * [高性能可扩展MySQL数据库设计及架构优化](数据库\高性能可扩展MySQL数据库设计及架构优化.md)
 * [C++](CPP\README.md)
     * [2017最新传智播客/黑马C++视频教程](CPP\传智播客C++视频教程.md)
 * [人工智能](人工智能\README.md)
+    * [机器学习入门](人工智能\机器学习入门.md)
+* [Linux](Linux\README.md)
+    * [老马linux视频教程](Linux\老马linux视频教程.md)
+* [幻灯片](幻灯片\README.md)
+    * [许岑的幻灯片制作视频教程](幻灯片\许岑的幻灯片制作视频教程.md)
 
 ## 声明
 

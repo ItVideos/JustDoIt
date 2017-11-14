@@ -6,8 +6,6 @@
 
 ![](img/Vue+Django打造生鲜电商项目1.png)
 
-<!--more-->
-
 ![](img/Vue+Django打造生鲜电商项目2.png)
 
 ![](img/Vue+Django打造生鲜电商项目3.png)

@@ -6,8 +6,6 @@
 
 ![](img/7天搞定Node.js微信公众号1.png)
 
-<!--more-->
-
 ![](img/7天搞定Node.js微信公众号2.png)
 
 ![](img/7天搞定Node.js微信公众号3.png)

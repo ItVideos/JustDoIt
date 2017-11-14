@@ -6,8 +6,6 @@
 
 ![](img/Python高效编程技巧实战1.png)
 
-<!--more-->
-
 ![](img/Python高效编程技巧实战2.png)
 
 ![](img/Python高效编程技巧实战3.png)

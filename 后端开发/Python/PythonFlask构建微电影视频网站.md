@@ -6,8 +6,6 @@ Flask是Python高手公认的、好用的轻量级框架，微内核＋各种扩
 
 ![](img/PythonFlask构建微电影视频网站1.png)
 
-<!--more-->
-
 ![](img/PythonFlask构建微电影视频网站2.png)
 
 ![](img/PythonFlask构建微电影视频网站3.png)

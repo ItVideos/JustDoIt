@@ -6,8 +6,6 @@
 
 ![](img/SpringBoot企业微信点餐系统1.png)
 
-<!--more-->
-
 ![](img/SpringBoot企业微信点餐系统2.png)
 
 ## 课程章节

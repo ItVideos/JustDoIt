@@ -6,8 +6,6 @@
 
 ![](img/java面试1.png)
 
-<!--more-->
-
 ![](img/java面试2.png)
 
 ![](img/java面试3.png)

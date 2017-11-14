@@ -6,8 +6,6 @@
 
 ![](img/Java SSM开发大众点评1.png)
 
-<!--more-->
-
 ![](img/Java SSM开发大众点评2.png)
 
 ![](img/Java SSM开发大众点评3.png)

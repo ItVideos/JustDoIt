@@ -6,8 +6,6 @@ React Native版本升级，最新技能领先学习！这是一门颇受创业�
 
 ![](img/贯穿全栈ReactNative开发App1.png)
 
-<!--more-->
-
 ![](img/贯穿全栈ReactNative开发App2.png)
 
 ![](img/贯穿全栈ReactNative开发App3.png)

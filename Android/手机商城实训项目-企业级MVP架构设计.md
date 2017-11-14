@@ -4,8 +4,6 @@
 
 ![](img/企业级MVP架构设计1.png)
 
-<!--more-->
-
 ![](img/企业级MVP架构设计2.png)
 
 ![](img/企业级MVP架构设计3.png)

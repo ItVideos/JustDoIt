@@ -10,8 +10,6 @@ tags: MySQL
 
 ![](img/高性能可扩展MySQL数据库设计及架构优化1.png)
 
-<!--more-->
-
 ![](img/高性能可扩展MySQL数据库设计及架构优化2.png)
 
 ![](img/高性能可扩展MySQL数据库设计及架构优化3.png)

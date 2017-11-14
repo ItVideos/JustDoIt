@@ -6,8 +6,6 @@
 
 ![](img/高性能的PHP接口开发1.png)
 
-<!--more-->
-
 ![](img/高性能的PHP接口开发2.png)
 
 ![](img/高性能的PHP接口开发3.png)

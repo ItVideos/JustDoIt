@@ -6,8 +6,6 @@
 
 ![](img/WebApp用组件方式开发全站1.png)
 
-<!--more-->
-
 ![](img/WebApp用组件方式开发全站2.png)
 
 ![](img/WebApp用组件方式开发全站3.png)

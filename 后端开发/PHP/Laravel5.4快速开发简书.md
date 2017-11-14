@@ -6,8 +6,6 @@ Laravel是PHP工程化开发的趋势，本课程使用大量Laravel基础及高
 
 ![](img/Laravel5.4快速开发简书1.png)
 
-<!--more-->
-
 ![](img/Laravel5.4快速开发简书2.png)
 
 ![](img/Laravel5.4快速开发简书3.png)

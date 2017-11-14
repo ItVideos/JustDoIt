@@ -4,8 +4,6 @@
 
 ![](img/Android系统定制-从听说到入门4.png)
 
-<!--more-->
-
 ![](img/Android系统定制-从听说到入门1.png)
 
 ![](img/Android系统定制-从听说到入门2.png)

@@ -6,8 +6,6 @@
 
 ![](img/React.js入门基础与案例开发1.png)
 
-<!--more-->
-
 ![](img/React.js入门基础与案例开发2.png)
 
 ![](img/React.js入门基础与案例开发3.png)

@@ -6,8 +6,6 @@
 
 ![](img/SpringSecurity开发安全的REST服务1.png)
 
-<!--more-->
-
 ![](img/SpringSecurity开发安全的REST服务2.png)
 
 ## 课程章节
