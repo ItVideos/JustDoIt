@@ -2,15 +2,15 @@
 
 ## 课程介绍
 
-![](imgm/企业级MVP架构设计1.png)
+![](img/企业级MVP架构设计1.png)
 
 <!--more-->
 
-![](imgm/企业级MVP架构设计2.png)
+![](img/企业级MVP架构设计2.png)
 
-![](imgm/企业级MVP架构设计3.png)
+![](img/企业级MVP架构设计3.png)
 
-![](imgm/企业级MVP架构设计4.png)
+![](img/企业级MVP架构设计4.png)
 
 ## 更多教程
 

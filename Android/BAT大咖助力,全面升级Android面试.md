@@ -4,7 +4,7 @@
 
 安卓面试全新升级课程，已经帮助很多同学在短时间内拿到了满意的offer，作为Android开发求职路上快速赢取满意offer的必备课程，不管你是什么级别的工程师，都可以通过这门课程的学习，轻松快速搞定Android面试，赢取满意offer！
 
-![](imgm/BAT大咖助力，全面升级Android面试1.png)
+![](img/BAT大咖助力，全面升级Android面试1.png)
 
 <!--more-->
 

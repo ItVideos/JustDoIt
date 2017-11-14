@@ -2,15 +2,15 @@
 
 ## 课程介绍
 
-![](http://oqn6ggw87.bkt.clouddn.com/Java版数据结构与算法.jpg)
+![](img/Java版数据结构与算法.jpg)
 
 <!--more-->
 
-![](http://oqn6ggw87.bkt.clouddn.com/Java版数据结构与算法1.jpg)
+![](img/Java版数据结构与算法1.jpg)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Java版数据结构与算法2.jpg)
+![](img/Java版数据结构与算法2.jpg)
 
-![](http://oqn6ggw87.bkt.clouddn.com/Java版数据结构与算法3.jpg)
+![](img/Java版数据结构与算法3.jpg)
 
 ## 更多教程
 

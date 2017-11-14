@@ -2,15 +2,15 @@
 
 ## 课程介绍
 
-![](imgm/Android系统定制-从听说到入门4.png)
+![](img/Android系统定制-从听说到入门4.png)
 
 <!--more-->
 
-![](imgm/Android系统定制-从听说到入门1.png)
+![](img/Android系统定制-从听说到入门1.png)
 
-![](imgm/Android系统定制-从听说到入门2.png)
+![](img/Android系统定制-从听说到入门2.png)
 
-![](imgm/Android系统定制-从听说到入门3.png)
+![](img/Android系统定制-从听说到入门3.png)
 
 ## 更多教程
 

@@ -4,15 +4,15 @@
 
 React Native版本升级，最新技能领先学习！这是一门颇受创业公司追捧的技术，一站式学习、掌握全栈技术，通过React Native 和 Node.js 前后端的配合，实现一个完整的跨前后端App项目，让你快速成为企业抢手人才，拥有跨栈跨端独立开发的能力。
 
-![](imgm/贯穿全栈ReactNative开发App1.png)
+![](img/贯穿全栈ReactNative开发App1.png)
 
 <!--more-->
 
-![](imgm/贯穿全栈ReactNative开发App2.png)
+![](img/贯穿全栈ReactNative开发App2.png)
 
-![](imgm/贯穿全栈ReactNative开发App3.png)
+![](img/贯穿全栈ReactNative开发App3.png)
 
-![](imgm/贯穿全栈ReactNative开发App4.png)
+![](img/贯穿全栈ReactNative开发App4.png)
 
 ## 课程章节
 
