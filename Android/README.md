@@ -6,6 +6,8 @@
 * [BAT大厂APP架构演进实践与优化之路](BAT大厂APP架构演进实践与优化之路.md)
 * [Android应用发展趋势必备武器 热修复与插件化](Android热修复与插件化.md)
 * [Android 通用框架设计与完整电商 APP开发](Android通用框架设计与完整电商.md)
+* [组件化封装思想实战Android](Android\组件化封装思想实战Android.md)
+* [基于okhttp3的Android网络层架构设计实战](Android\基于okhttp3的Android网络层架构设计实战.md)
 * [手机商城实训项目-企业级MVP架构设计](手机商城实训项目-企业级MVP架构设计.md)
 * [Android系统定制-从听说到入门](Android系统定制-从听说到入门.md)
 * [Kotlin系统入门与进阶](Kotlin系统入门与进阶.md)
