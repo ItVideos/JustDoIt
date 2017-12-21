@@ -1,0 +1,69 @@
+---
+title: MySQL性能管理及架构设计
+categories: 
+- 数据库
+- MySQL
+tags: MySQL
+---
+
+## 课程介绍
+
+如何获得MySQL最优性能？ 如何建立MySQL高可用集群？ 如何搭建稳定高效的MySQL环境？
+
+![](http://oqn6ggw87.bkt.clouddn.com/MySQL性能管理及架构设计1.png)
+
+<!--more-->
+
+![](http://oqn6ggw87.bkt.clouddn.com/MySQL性能管理及架构设计2.png)
+
+![](http://oqn6ggw87.bkt.clouddn.com/MySQL性能管理及架构设计3.png)
+
+![](http://oqn6ggw87.bkt.clouddn.com/MySQL性能管理及架构设计4.png)
+
+## 课程章节
+
+### 第1章 实例和故事
+
+决定电商11大促成败的各个关键因素。
+
+### 第2章 什么影响了MySQL性能
+
+详细介绍影响性能各个因素，包括硬件、操作系统等等。
+
+### 第3章 MySQL基准测试
+
+了解基准测试,MySQL基准测试工具介绍及实例演示。
+
+### 第4章 MySQL数据库结构优化
+
+详细介绍数据库结构设计、范式和反范式设计、物理设计等等。
+
+### 第5章 MySQL高可用架构设计
+
+详细介绍二进制日志及其对复制的影响、GTID的复制、MMM、MHA等等。
+
+### 第6章 数据库索引优化
+
+介绍BTree索引和Hash索引，详细介绍索引的优化策略等等。
+
+### 第7章 SQL查询优化
+
+详细介绍慢查询日志及示例演示,MySQL查询优化器介绍及特定SQL的查询优化等。
+
+### 第8章 数据库的分库分表
+
+详细介绍数据库分库分表的实现原理及演示案例等。
+
+### 第9章 数据库监控
+
+介绍数据库可用性监控、性能监控、MySQL主从复制监控等
+
+## 更多教程
+
+教程不断整理更新中，以上截图仅供参考，如需了解更多视频教程的详细信息请到如下地址查看：
+
+[教程分类说明](https://itvedios.github.io/categories/)：<https://itvedios.github.io/categories/>
+
+## 获取方式
+
+[关于教程、获取方式、温馨提示](https://itvedios.github.io/about/)
