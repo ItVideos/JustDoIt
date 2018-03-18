@@ -25,47 +25,51 @@
 
 ## 目录
 
-1．基于Storm构建实时热力分布项目实战
-
-2．从天气项目看Spring Cloud微服务治理
-
-3．前端成长必经之路-组件化思维与技巧
-
-4．Kotlin打造完整电商APP 模块化+MVP+主流框架
-
-5．Java秒杀系统方案优化 高性能高并发实战
-
-6．BAT大牛亲授 基于ElasticSearch的搜房网实战
-
-7．Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式
-
-8．Python接口测试框架实战与自动化进阶
-
-9．快速上手Linux 玩转典型应用
-
-10．Spark Streaming实时流处理项目实战
-
-11．Redis从入门到高可用，分布式实践
-
-12．快速上手Ionic3 多平台开发企业级问答社区
-
-13．跨平台混编框架 MUI 仿豆瓣电影 APP
-
-14．全程MVP手把手 打造IM即时通讯Android APP
-
-15．四大维度解锁 Webpack3.0 工具全技能
-
-16．全面系统讲解CSS 工作应用+面试一步搞定
-
-17．Webpack + React全栈工程架构项目实战精讲
-
-18．ES6+ 开发电商网站的账号体系 JS SDK
-
-19．Redux+React Router+Node.js全栈开发
-
-20．基于大数据技术推荐系统算法案例实战教程
-
-21．以慕课网日志分析为例 进入大数据 Spark SQL 的世界
+1. Java并发编程与高并发解决方案
+2. 揭秘一线互联网企业 前端JavaScript高级面试
+3. Web自动化测试 Selenium基础到企业应用
+4. 北风网-人工智能实战工程师全日制培训就业课程
+5. 北风网-数据分析师跳槽班高薪就业课程
+6. 推荐系统算法工程师——从入门到就业
+7. Tomcat+Memcached/Redis 集群 构建高可用解决方案
+8. Google资深工程师深度讲解Go语言
+9. Koa2框架从0开始构建预告片网站
+10. React16+React-Router4 从零打造企业级电商后台管理系统
+11. Python+Django+Ansible Playbook 自动化运维项目实战
+12. Python3 数据分析与挖掘建模实战
+13. 牛客算法初级班、牛客算法晋级班
+14. 从Java到Kotlin系统精讲
+15. Kotlin 手机影音
+16. Kotlin 即时通信
+17. Kotlin 外卖项目实战
+18. gradle 遇见 kotlin
+19. Kotlin 互联网安全算法
+20. Kotlin 坦克大战实战项目
+21. 专为初学者打造的软件测试入门的首选课堂
+22. 基于Storm构建实时热力分布项目实战
+23. 从天气项目看Spring Cloud微服务治理
+24. 前端成长必经之路-组件化思维与技巧
+25. Kotlin打造完整电商APP 模块化+MVP+主流框架
+26. Java秒杀系统方案优化 高性能高并发实战
+27. BAT大牛亲授 基于ElasticSearch的搜房网实战
+28. Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式
+29. Python接口测试框架实战与自动化进阶
+30. 快速上手Linux 玩转典型应用
+31. Spark Streaming实时流处理项目实战
+32. Redis从入门到高可用，分布式实践
+33. 快速上手Ionic3 多平台开发企业级问答社区
+34. 跨平台混编框架 MUI 仿豆瓣电影 APP
+35. 全程MVP手把手 打造IM即时通讯Android APP
+36. 四大维度解锁 Webpack3.0 工具全技能
+37. 全面系统讲解CSS 工作应用+面试一步搞定
+38. Webpack + React全栈工程架构项目实战精讲
+39. ES6+ 开发电商网站的账号体系 JS SDK
+40. Redux+React Router+Node.js全栈开发
+41. 基于大数据技术推荐系统算法案例实战教程
+42. 以慕课网日志分析为例 进入大数据 Spark SQL 的世界
+43. 微信小游戏入门与实战 刷爆朋友圈
+44. Java深入微服务原理改造房产销售平台
+45. Python3入门机器学习 经典算法与应用
 
 ### Android
 
